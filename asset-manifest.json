@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dynamic-text-color/static/css/main.abfc08b9.chunk.css",
+    "main.js": "/dynamic-text-color/static/js/main.2c77431a.chunk.js",
+    "main.js.map": "/dynamic-text-color/static/js/main.2c77431a.chunk.js.map",
+    "runtime-main.js": "/dynamic-text-color/static/js/runtime-main.06db35ad.js",
+    "runtime-main.js.map": "/dynamic-text-color/static/js/runtime-main.06db35ad.js.map",
+    "static/js/2.61944da1.chunk.js": "/dynamic-text-color/static/js/2.61944da1.chunk.js",
+    "static/js/2.61944da1.chunk.js.map": "/dynamic-text-color/static/js/2.61944da1.chunk.js.map",
+    "static/js/3.5f62f9f8.chunk.js": "/dynamic-text-color/static/js/3.5f62f9f8.chunk.js",
+    "static/js/3.5f62f9f8.chunk.js.map": "/dynamic-text-color/static/js/3.5f62f9f8.chunk.js.map",
+    "index.html": "/dynamic-text-color/index.html",
+    "static/css/main.abfc08b9.chunk.css.map": "/dynamic-text-color/static/css/main.abfc08b9.chunk.css.map",
+    "static/js/2.61944da1.chunk.js.LICENSE.txt": "/dynamic-text-color/static/js/2.61944da1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06db35ad.js",
+    "static/js/2.61944da1.chunk.js",
+    "static/css/main.abfc08b9.chunk.css",
+    "static/js/main.2c77431a.chunk.js"
+  ]
+}
